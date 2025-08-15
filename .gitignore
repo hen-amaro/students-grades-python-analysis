@@ -18,6 +18,6 @@ env/
 # MacOS
 .DS_Store
 
-# Logs e arquivos temporários
+# Logs
 *.log
 *.tmp
